@@ -32,3 +32,36 @@
 	npm install 
   
 	npm run dev
+	
+
+## 👨‍💻| TECNOLOGIAS UTILIZADAS
+
+###  **📱| Mobile**
+
+  - ReactNative
+  - Expo
+  
+###  **⌨️| Back-end**
+
+  - NodeJS
+  - Prisma
+  - Axios
+  - OAuth2
+  
+###  **💻| Fron-end**
+
+  - React
+  - NextJs
+  - TypeScript
+  - TailwindCSS
+  
+ ## 🎲| CORRELAÇÃO ENTRE AS TABELAS DO BANCO DE DADOS
+	
+<img  width="500" src=".github/ERD.svg" >
+
+## 📲 | CONTATO
+<div> 
+  <a href="https://twitter.com/delimaqz" target="_blank"><img src="https://img.shields.io/badge/Twitter-2F4F4F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter"></a>
+  <a href="https://www.instagram.com/delimaqz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-2F4F4F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/raphaell-arcanjo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2F4F4F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkendin"></a>
+</div>
