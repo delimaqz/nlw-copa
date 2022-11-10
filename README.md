@@ -1,7 +1,7 @@
 ## 🛡️| NLW Copa
 
 <div align="center">
-  <h3>Aplicação mboile</h3>
+  <h3>Aplicação mobile</h3>
   
   <img  width="200" src=".github/imageOne.PNG" >
   <img  width="200" src=".github/imageTwo.PNG" >
