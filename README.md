@@ -9,10 +9,10 @@
   <img  width="200" src=".github/imageFour.PNG" >
 </div>
 
-<div>
+<div align="center">
   <h3>Aplicação web</h3>
 
-  <img  width="800" src=".github/imageFive.PNG" >
+  <img  width="800" src=".github/imageFive.png" >
 </div>
 
 
